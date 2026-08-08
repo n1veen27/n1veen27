@@ -1,12 +1,12 @@
-# Hi, I'm Naveen Verma 👋
+# Hi, I'm N1VEEN 👋
 
 **BCA Student | CTF Player | Cybersecurity**
 
 ---
 
 ## About Me
-- 🎓 BCA student at Dyal Singh College, Karnal
-- 📍 Karnal, Haryana, India
+- 🎓 BCA student
+- 📍 India
 - 🛡️ Primary focus: Cybersecurity Enthusiast
 - 🌱 Currently learning: Web Security + CTF
 - 🤝 Open to collaborations
