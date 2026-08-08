@@ -22,11 +22,10 @@
 - Improving web security fundamentals
 
 ## Featured Projects
-Add your best repositories here:
-
-- [Project Name 1](https://github.com/naveenverma27)
-- [Project Name 2](https://github.com/naveenverma27)
-- [Project Name 3](https://github.com/naveenverma27)
+- [ServeSphere - Local Service Marketplace](https://github.com/n1veen27/local-service-marketplace)
+- [File Integrity Monitor](https://github.com/n1veen27/file-integrity-monitor)
+- [Auth Log Threat Detector](https://github.com/n1veen27/auth-log-threat-detector)
+- [Cyber Port Scanner](https://github.com/n1veen27/cyber-port-scanner)
 
 ## Connect
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/naveenverma1)
